@@ -1,0 +1,1 @@
+# JAK-QR-Code-Generator
